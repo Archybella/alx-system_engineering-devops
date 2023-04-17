@@ -1,0 +1,3 @@
+#!/bin/bash
+grep -Ai 3 "root" /etc/passwd
+~             
