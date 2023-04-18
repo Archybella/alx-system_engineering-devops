@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "ibase=water; $WATER + ibase=stir; $STIR" | bc | tr '0123456789ABC' 'gtaio luSnemf'
+echo "ibase=water; $WATER+stir=$STIR;obase=bestchol;" | bc
